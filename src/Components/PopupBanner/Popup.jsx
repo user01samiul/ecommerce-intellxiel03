@@ -21,9 +21,7 @@ const Popup = () => {
           <button className="close-button" onClick={handleClose}>
             ×
           </button>
-          <div className="popup-left">
-            <img src={popupImg} alt="Newsletter" />
-          </div>
+     
           <div className="popup-right">
             <h2>Sign Up to Our Newsletter</h2>
             <p>
